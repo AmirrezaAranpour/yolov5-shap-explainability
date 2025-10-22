@@ -1,0 +1,10 @@
+ipython
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+scikit-image
+shap
+torch
+torchvision
